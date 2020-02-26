@@ -1,0 +1,274 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a949d6f1-cc1d-4aa1-ac2a-ab0f8ab94cbb" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1VTXePyXBsnsFxwTlRvLIgoZIk0" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/begin.py" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RunManager" selected="Python.begin">
+    <configuration name="Test_1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="lx_2019526009" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Test_1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Test_2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="lx_2019526009" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Test_2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Test_3" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="lx_2019526009" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Test_3.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="begin" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="lx_2019526009" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\18251\pyenv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/begin.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="helper" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="lx_2019526009" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lx_2019526009" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lx_2019526009/helper.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Test_1" />
+        <item itemvalue="Python.Test_3" />
+        <item itemvalue="Python.Test_2" />
+        <item itemvalue="Python.helper" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a949d6f1-cc1d-4aa1-ac2a-ab0f8ab94cbb" name="Default Changelist" comment="" />
+      <created>1577278155227</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1577278155227</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.cfg" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="137" y="22" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1577279652038">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="137" y="22" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1577279652038" />
+    <state x="639" y="141" width="668" height="587" key="#xdebugger.evaluate" timestamp="1577543979600">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="639" y="141" width="668" height="587" key="#xdebugger.evaluate/0.0.1366.728@0.0.1366.728" timestamp="1577543979600" />
+    <state width="1013" height="466" key="DebuggerActiveHint" timestamp="1577543451584">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1013" height="466" key="DebuggerActiveHint/0.0.1366.728@0.0.1366.728" timestamp="1577543451584" />
+    <state x="463" y="122" key="FileChooserDialogImpl" timestamp="1577279651155">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="122" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1577279651155" />
+    <state width="1515" height="210" key="GridCell.Tab.0.bottom" timestamp="1580910463337">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1345" height="288" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1577552130342" />
+    <state width="1515" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1580910463337" />
+    <state width="1515" height="210" key="GridCell.Tab.0.center" timestamp="1580910463337">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1345" height="288" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1577552130342" />
+    <state width="1515" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1580910463337" />
+    <state width="1515" height="210" key="GridCell.Tab.0.left" timestamp="1580910463337">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1345" height="288" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1577552130342" />
+    <state width="1515" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1580910463337" />
+    <state width="1515" height="210" key="GridCell.Tab.0.right" timestamp="1580910463337">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1345" height="288" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1577552130342" />
+    <state width="1515" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1580910463337" />
+    <state width="1345" height="288" key="GridCell.Tab.1.bottom" timestamp="1577552130342">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="288" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1577552130342" />
+    <state width="1345" height="288" key="GridCell.Tab.1.center" timestamp="1577552130342">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="288" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1577552130342" />
+    <state width="1345" height="288" key="GridCell.Tab.1.left" timestamp="1577552130342">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="288" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1577552130342" />
+    <state width="1345" height="288" key="GridCell.Tab.1.right" timestamp="1577552130342">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="288" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1577552130342" />
+    <state x="227" y="36" key="SettingsEditor" timestamp="1580901496743">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="227" y="36" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1580901496743" />
+    <state width="691" height="372" key="XDebugger.FullValuePopup" timestamp="1577539730582">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="691" height="372" key="XDebugger.FullValuePopup/0.0.1366.728@0.0.1366.728" timestamp="1577539730582" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1577541317428">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1577541317428" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/lx_2019526009/pipelines.py</url>
+          <line>16</line>
+          <option name="timeStamp" value="55" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/lx_2019526009/pipelines.py</url>
+          <line>14</line>
+          <option name="timeStamp" value="56" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/lx_2019526009/spiders/spider.py</url>
+          <line>38</line>
+          <option name="timeStamp" value="58" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Test_1.py</url>
+          <line>37</line>
+          <option name="timeStamp" value="60" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Test_1.py</url>
+          <line>18</line>
+          <option name="timeStamp" value="62" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Test_2.py</url>
+          <line>38</line>
+          <option name="timeStamp" value="63" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
